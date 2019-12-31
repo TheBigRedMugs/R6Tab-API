@@ -32,7 +32,7 @@ Response data:
 - <i>**p_name**</i> is the current name of the player<br>
 - <i>**p_level**</i> is the current level of the player<br>
 - <i>**p_platform**</i> is the platform of the user<br>
-- <i>**p_user**</i> is an identifier of the player.<br>
+- <i>**p_user**</i> is an identifier of the player<br>
 - <i>**p_currentmmr**</i> is the current mmr (ranked matchmaking rating) of the player<br>
 - <i>**p_currentrank**</i> is the current rank of the player<br>
 - <i>**kd**</i> is the average Kill to Death ratio for the player<br>
