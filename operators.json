@@ -1,0 +1,289 @@
+{
+    "operators": [
+        {
+            "id": "2:1",
+            "operator": "Smoke",
+            "type": "Defender"
+        },
+        {
+            "id": "2:2",
+            "operator": "Castle",
+            "type": "Defender"
+        },
+        {
+            "id": "2:3",
+            "operator": "Doc",
+            "type": "Defender"
+        },
+        {
+            "id": "2:4",
+            "operator": "Glaz",
+            "type": "Attacker"
+        },
+        {
+            "id": "2:5",
+            "operator": "Blitz",
+            "type": "Attacker"
+        },
+        {
+            "id": "2:6",
+            "operator": "Buck",
+            "type": "Attacker"
+        },
+        {
+            "id": "2:7",
+            "operator": "Blackbeard",
+            "type": "Attacker"
+        },
+        {
+            "id": "2:8",
+            "operator": "Capitao",
+            "type": "Attacker"
+        },
+        {
+            "id": "2:9",
+            "operator": "Hibana",
+            "type": "Attacker"
+        },
+        {
+            "id": "2:A",
+            "operator": "Jackal",
+            "type": "Attacker"
+        },
+        {
+            "id": "2:B",
+            "operator": "Ying",
+            "type": "Attacker"
+        },
+        {
+            "id": "2:C",
+            "operator": "Ela",
+            "type": "Defender"
+        },
+        {
+            "id": "2:D",
+            "operator": "Dokkaebi",
+            "type": "Attacker"
+        },
+        {
+            "id": "2:F",
+            "operator": "Maestro",
+            "type": "Defender"
+        },
+        {
+            "id": "3:1",
+            "operator": "Mute",
+            "type": "Defender"
+        },
+        {
+            "id": "3:2",
+            "operator": "Ash",
+            "type": "Attacker"
+        },
+        {
+            "id": "3:3",
+            "operator": "Rook",
+            "type": "Defender"
+        },
+        {
+            "id": "3:4",
+            "operator": "Fuze",
+            "type": "Attacker"
+        },
+        {
+            "id": "3:5",
+            "operator": "IQ",
+            "type": "Attacker"
+        },
+        {
+            "id": "3:6",
+            "operator": "Frost",
+            "type": "Defender"
+        },
+        {
+            "id": "3:7",
+            "operator": "Valkyrie",
+            "type": "Defender"
+        },
+        {
+            "id": "3:8",
+            "operator": "Caveira",
+            "type": "Defender"
+        },
+        {
+            "id": "3:9",
+            "operator": "Echo",
+            "type": "Defender"
+        },
+        {
+            "id": "3:A",
+            "operator": "Mira",
+            "type": "Defender"
+        },
+        {
+            "id": "3:B",
+            "operator": "Lesion",
+            "type": "Defender"
+        },
+        {
+            "id": "3:C",
+            "operator": "Zofia",
+            "type": "Attacker"
+        },
+        {
+            "id": "3:D",
+            "operator": "Vigil",
+            "type": "Defender"
+        },
+        {
+            "id": "3:E",
+            "operator": "Lion",
+            "type": "Attacker"
+        },
+        {
+            "id": "3:F",
+            "operator": "Alibi",
+            "type": "Defender"
+        },   
+        {
+            "id": "4:1",
+            "operator": "Sledge",
+            "type": "Defender"
+        },
+        {
+            "id": "4:2",
+            "operator": "Pulse",
+            "type": "Defender"
+        },
+        {
+            "id": "4:3",
+            "operator": "Twitch",
+            "type": "Attacker"
+        },
+        {
+            "id": "4:4",
+            "operator": "Kapkan",
+            "type": "Defender"
+        },
+        {
+            "id": "4:5",
+            "operator": "Jager",
+            "type": "Defender"
+        },
+        {
+            "id": "4:E",
+            "operator": "Finka",
+            "type": "Attacker"
+        },
+        {
+            "id": "5:1",
+            "operator": "Finka",
+            "type": "Attacker"
+        },
+        {
+            "id": "5:2",
+            "operator": "Thermite",
+            "type": "Attacker"
+        },
+        {
+            "id": "5:3",
+            "operator": "Montagne",
+            "type": "Attacker"
+        },
+        {
+            "id": "5:4",
+            "operator": "Tachanka",
+            "type": "Attacker"
+        },
+        {
+            "id": "5:5",
+            "operator": "Bandit",
+            "type": "Attacker"
+        },
+        {
+            "id": "1:5",
+            "operator": "GSG9",
+            "type": "Recruit"
+        },
+        {
+            "id": "1:4",
+            "operator": "Spetsnaz",
+            "type": "Recruit"
+        },
+        {
+            "id": "1:3",
+            "operator": "GIGN",
+            "type": "Recruit"
+        },
+        {
+            "id": "1:2",
+            "operator": "FBI",
+            "type": "Recruit"
+        },
+        {
+            "id": "1:1",
+            "operator": "SAS",
+            "type": "Recruit"
+        },
+        {
+            "id": "2:11",
+            "operator": "Nomad",
+            "type": "Attacker"
+        },
+        {
+            "id": "3:11",
+            "operator": "Kaid",
+            "type": "Defender"
+        },
+        {
+            "id": "3:10",
+            "operator": "Clash",
+            "type": "Defender"
+        },
+        {
+            "id": "2:10",
+            "operator": "Maverick",
+            "type": "Attacker"
+        },
+        {
+            "id": "2:12",
+            "operator": "Gridlock",
+            "type": "Attacker"
+        },
+        {
+            "id": "3:12",
+            "operator": "Mozzie",
+            "type": "Defender"
+        },
+        {
+            "id": "2:13",
+            "operator": "Nøkk",
+            "type": "Attacker"
+        },
+        {
+            "id": "2:14",
+            "operator": "Warden",
+            "type": "Defender"
+        },
+        {
+            "id": "3:15",
+            "operator": "Amaru",
+            "type": "Attacker"
+        },
+        {
+            "id": "2:15",
+            "operator": "Goyo",
+            "type": "Defender"
+        },
+        {
+            "id": "2:17",
+            "operator": "Kali",
+            "type": "Attacker"
+        },
+        {
+            "id": "3:17",
+            "operator": "Wamai",
+            "type": "Defender"
+        }
+    ]
+}
