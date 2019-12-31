@@ -207,3 +207,27 @@
 	Operator ID: 3:12
 	Operator: Mozzie
 	Type: Defender
+		
+	Operator ID: 2:13
+	Operator: Nøkk
+	Type: Attacker
+	
+	Operator ID: 2:14
+	Operator: Warden
+	Type: Defender
+
+	Operator ID: **?3:15?**
+	Operator: Amaru
+	Type: Attacker
+	
+	Operator ID: 2:15
+	Operator: Goyo
+	Type: Defender
+	
+	Operator ID: 2:17
+	Operator: Kali 
+	Type: Attacker	
+	
+	Operator ID: 3:17
+	Operator: Wamai
+	Type: Defender
