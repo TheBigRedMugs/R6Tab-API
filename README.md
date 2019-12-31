@@ -91,6 +91,8 @@ Operators IDs: <u>[Click Here](https://github.com/Tabwire/R6Tab-API/blob/master/
 
 Data IDs: <u>[Click Here](https://github.com/Tabwire/R6Tab-API/blob/master/Data.md)</u>
 
+NOTE: To update a player's stats, append the method "action=update" at the end of your call. This will only update the statistics every hour. Do not abuse this.
+
 <hr>
 
 ## Call the leaderboard
