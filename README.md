@@ -48,22 +48,24 @@ Example response:
     {
       "p_id": "9bd44bde-9c48-48ae-9c2b-4e11e4b16083",
       "p_name": "BaIIer",
-      "p_level": "341",
+      "p_level": 373,
       "p_platform": "uplay",
       "p_user": "9bd44bde-9c48-48ae-9c2b-4e11e4b16083",
-      "p_currentmmr": "3979",
-      "p_currentrank": "18",
-      "kd": "128"
+      "p_currentmmr": 4332,
+      "p_currentrank": 19,
+      "verified": 1,
+      "kd": 121
     },
     {
-      "p_id": "83518584-ac1e-4a56-838c-be78f02a523b",
-      "p_name": "BaIIer101",
-      "p_level": "24",
+      "p_id": "54dd1deb-0a93-4be1-b36d-3ff53f43f9fb",
+      "p_name": "BaIIer..",
+      "p_level": 147,
       "p_platform": "uplay",
-      "p_user": "83518584-ac1e-4a56-838c-be78f02a523b",
-      "p_currentmmr": "0",
-      "p_currentrank": "0",
-      "kd": "0"
+      "p_user": "54dd1deb-0a93-4be1-b36d-3ff53f43f9fb",
+      "p_currentmmr": 0,
+      "p_currentrank": 0,
+      "verified": 0,
+      "kd": 112
     }
   ],
   "totalresults": 2
