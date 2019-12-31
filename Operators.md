@@ -216,7 +216,7 @@
 	Operator: Warden
 	Type: Defender
 
-	Operator ID: **?3:15?**
+	Operator ID: **3:15?** (Unsure about this one.)
 	Operator: Amaru
 	Type: Attacker
 	
