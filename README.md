@@ -35,6 +35,7 @@ Response data:
 - <i>**p_user**</i> is an identifier of the player<br>
 - <i>**p_currentmmr**</i> is the current mmr (ranked matchmaking rating) of the player<br>
 - <i>**p_currentrank**</i> is the current rank of the player<br>
+- <i>**verified**</i> is whether the player is verified on R6Tab. (0 = Not verified, 1 = Verified.)<br>
 - <i>**kd**</i> is the average Kill to Death ratio for the player<br>
 
 Note that <i>**p_user**</i> does not always match to <i>**p_id**</i> {p_user} can be used to grab the player avatar: `https://ubisoft-avatars.akamaized.net/p_user/default_146_146.png`
